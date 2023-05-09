@@ -43,12 +43,12 @@ The main code in [mainPipeline.ipynb](https://github.com/jdchong3/CS598Project/b
 ## Hyperparameters
 The following table provides the set of hyperparameters for each predictive task used to obtain the results in the next section.
 
-![Hyperparameters](https://github.com/jdchong3/CS598Project/blob/main/images/Hyperparameters)
+![Hyperparameters](https://github.com/jdchong3/CS598Project/blob/main/images/Hyperparameters.png)
 
 ## Results
 Using the hyperparameters mentioned above, run each of the 4 machine learning and 4 deep learning models to obtain AUROC and AUPRC values for ICU and non-ICU data on each predictive task: readmission, mortality, length of stay, and phenotype. Here is a table of results:
 
-![Results](https://github.com/jdchong3/CS598Project/blob/main/images/Results)
+![Results](https://github.com/jdchong3/CS598Project/blob/main/images/Results.png)
 
 ## References
 Mehak Gupta, Brennan Gallamoza, Nicolas Cutrona, Pranjal Dhakal, Raphael Poulain, and Rahmatollah Beheshti. 2022. An Extensive Data Processing Pipeline for MIMIC-IV. In Proceedings of the 2nd Machine Learning for Health symposium, volume 193 of Proceedings of Machine Learning Research, pages 311–325. PMLR.
